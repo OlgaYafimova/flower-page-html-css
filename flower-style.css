@@ -53,7 +53,8 @@ button{
     align-content: stretch;
     justify-content: space-evenly;
     align-items: center;
-    margin: 100px;
+    padding: 0px;
+    margin: 30px;
 }
 
 .div2imgs{
@@ -68,6 +69,11 @@ button{
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
+}
+
+.div3-txt{
+    margin: 0px;
+    padding: 0px;
 }
 
 .footer-links{
